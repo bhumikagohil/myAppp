@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myAppp/static/css/main.cc03cdee.chunk.css",
+    "main.js": "/myAppp/static/js/main.17d8b6a6.chunk.js",
+    "main.js.map": "/myAppp/static/js/main.17d8b6a6.chunk.js.map",
+    "runtime-main.js": "/myAppp/static/js/runtime-main.fbb3afc5.js",
+    "runtime-main.js.map": "/myAppp/static/js/runtime-main.fbb3afc5.js.map",
+    "static/css/2.55d8add8.chunk.css": "/myAppp/static/css/2.55d8add8.chunk.css",
+    "static/js/2.058e837c.chunk.js": "/myAppp/static/js/2.058e837c.chunk.js",
+    "static/js/2.058e837c.chunk.js.map": "/myAppp/static/js/2.058e837c.chunk.js.map",
+    "index.html": "/myAppp/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/myAppp/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.cc03cdee.chunk.css.map": "/myAppp/static/css/main.cc03cdee.chunk.css.map",
+    "static/js/2.058e837c.chunk.js.LICENSE.txt": "/myAppp/static/js/2.058e837c.chunk.js.LICENSE.txt",
+    "static/media/video2.914dca42.mp4": "/myAppp/static/media/video2.914dca42.mp4",
+    "static/media/video3.dce9090b.mp4": "/myAppp/static/media/video3.dce9090b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb3afc5.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.058e837c.chunk.js",
+    "static/css/main.cc03cdee.chunk.css",
+    "static/js/main.17d8b6a6.chunk.js"
+  ]
+}
